@@ -1,0 +1,12 @@
+{
+    "name": "michael/symfony-process-example",
+    "require": {
+        "symfony/process": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Michael Woodward",
+            "email": "mikeymike.mw@gmail.com"
+        }
+    ]
+}
